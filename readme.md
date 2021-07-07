@@ -1,9 +1,10 @@
-# Backend de TP mapa (Maimo 2021 progr)
+# Examen primer cuatrimestre - Parte 2
 
 ## API REST
 Realizada en ExpressJS
 
 ### Endpoints
 
-- GET /markers/
-- GET /marker/:id
+- GET /noticias/
+- POST /noticias/
+- DELETE /noticia/:id
